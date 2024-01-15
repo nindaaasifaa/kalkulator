@@ -1,6 +1,6 @@
 body{
     background-color: rgb(204, 183, 155);
-    /* background-image: url("image/kalkulator2.jpg"); */
+    /* background-image: url("kalkulator2.jpg"); */
     background-repeat: no-repeat;
     display: flex;
     justify-content: center;
@@ -10,7 +10,7 @@ body{
 
 .card{
     /* background-image: blanchedalmond; */
-    background-image: url("image/kalkulator.png");
+    background-image: url("kalkulator.png");
     background-repeat: no-repeat;
     background-color: rgb(158, 150, 141);
     width: 300px ;
